@@ -1,0 +1,32 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.App{
+    margin-top: 75px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%; 
+    flex-direction: row;
+    background-image: -webkit-radial-gradient(rgb(19, 110, 133), white 80%);
+}
+
+.cards {
+  display: flex;
+  flex-direction: row;
+  width: 50%;
+
+}
+
+.introtext{
+  font-size: 80px;
+  font-weight: bold;
+  text-align: start;
+  color: rgba(255, 255, 255, 0.582);
+  /* margin-right: 50px; */
+  /* background-color: yellowgreen; */
+  /* width: 150px; */
+}
