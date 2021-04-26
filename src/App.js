@@ -13,7 +13,7 @@ const App = () => {
       <WeatherCard city="Amsterdam" />
       <WeatherCard city="Marrakech" />
       <WeatherCard city="London" />
-      <WeatherCard city="Moscow" />
+      {/* <WeatherCard city="Moscow" /> */}
       {/* </div> */}
 
     </div>
