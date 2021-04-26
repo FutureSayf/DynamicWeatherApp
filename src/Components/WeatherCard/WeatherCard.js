@@ -108,7 +108,7 @@ const WeatherCard = ({ city }) => {
                   <div className="maxTemp">
                     <p><strong>MIN. </strong>TEMP</p>
                     <p><strong>MAX.</strong>TEMP</p>
-                    <p><strong>HUMADITY:</strong></p>
+                    <p><strong>HUMIDITY:</strong></p>
                   </div>
                   <div className="procent">
                     <p>{weatherdata.main.temp_min}&deg;</p>
